@@ -99,6 +99,12 @@ Interactive slicers (Age Group, Outcome, Cycle Date)
 
 The dashboard allows dynamic filtering to simulate real-world reporting used in healthcare analytics.
 <img width="1418" height="793" alt="Screenshot 2026-03-02 121240" src="https://github.com/user-attachments/assets/9b5d97f3-e6f5-4770-af9b-34b137399ecc" />
+<img width="1420" height="795" alt="Screenshot 2026-03-02 121303" src="https://github.com/user-attachments/assets/1aa4472e-f926-48db-9382-4282e3182c20" />
+<img width="1420" height="795" alt="Screenshot 2026-03-02 121303" src="https://github.com/user-attachments/assets/eb924e53-d148-4d49-bc95-8081a57677b3" />
+<img width="1423" height="809" alt="Screenshot 2026-03-02 121338" src="https://github.com/user-attachments/assets/84c61bc4-dfe9-4619-9d3d-78468b58830f" />
+
+
+
 
 
 
