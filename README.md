@@ -1,17 +1,17 @@
 Sperm-Quality-Assessment-IVF-Outcome-Analytics-
-DATA CLEANING AND VISULIZATION
+## DATA CLEANING AND VISULIZATION
 
-🧪 ICSI–IVF Outcome Analysis
+## ICSI–IVF Outcome Analysis
 
 Healthcare Data Analytics Project | SQL • Python • Power BI
 
-🚀 Project Summary
+## Project Summary
 
 This project analyzes ICSI–IVF treatment data to identify patterns influencing fertilization and clinical pregnancy success rates.
 
 The objective was to transform raw clinical data into actionable insights using SQL, Python, and Power BI, demonstrating a complete data analytics workflow from data cleaning to executive dashboard reporting.
 
-🎯 Business Objective
+ ## Business Objective
 
 Fertility clinics generate large volumes of treatment data, but raw data alone does not provide clarity.
 
@@ -27,7 +27,7 @@ Which age groups show higher success trends?
 
 The goal was to convert data into decision-support insights.
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 MySQL – Data extraction, aggregation & KPI calculation
 
@@ -37,7 +37,7 @@ Power BI – Interactive dashboard development
 
 Excel – Initial data validation
 
-🔄 Data Preparation
+## Data Preparation
 
 Cleaned missing and inconsistent records
 
@@ -51,7 +51,7 @@ Performed basic statistical summaries
 
 Clean data ensured reliable analysis outcomes.
 
-📊 Key Metrics Calculated
+## Key Metrics Calculated
 
 Fertilization Rate (%)
 
@@ -63,7 +63,7 @@ Age-wise Success Rate
 
 Cycle Distribution Analysis
 
-📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Performed:
 
@@ -85,7 +85,7 @@ Higher oocyte retrieval does not always guarantee higher success.
 
 Fertilization efficiency varies across treatment cycles.
 
-📊 Power BI Dashboard Features
+## Power BI Dashboard Features
 
 Total IVF Cycles KPI
 
